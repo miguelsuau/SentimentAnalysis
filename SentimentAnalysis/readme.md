@@ -1,5 +1,4 @@
-EXECUTION INSTRUCTIONS
-------------------------------------------------------------------------
+## EXECUTION INSTRUCTIONS
 1. Run the script named data_processing.py: This should output a csv
    file containing the preprocessed data.
 2. Run the script sentiment.py: The code performs sentiment analysis
